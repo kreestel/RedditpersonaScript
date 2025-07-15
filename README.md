@@ -6,7 +6,7 @@ This project creates detailed user personas from Reddit profiles using scraped p
 ## WorkFlow
 - Scrapes a Reddit user's recent posts and comments using the Reddit API (via `praw`)
 - Sends content to GPT-3.5 to generate a structured, insight-rich persona
-- Outputs persona as a `.txt` file with cited quotes and behavioral insights
+- Outputs persona as a `.txt` file with cited quotes and behavioral analysis.
 
 ---
 
