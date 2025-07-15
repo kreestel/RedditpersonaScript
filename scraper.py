@@ -12,7 +12,7 @@ def get_reddit_instance():
         user_agent=os.getenv("REDDIT_USER_AGENT")
     )
 
-def fetch_user_content(username, post_limit=50, comment_limit=100):
+def fetch_user_content(username, post_limit=55, comment_limit=100):
     reddit = get_reddit_instance()
     user = reddit.redditor(username)
 

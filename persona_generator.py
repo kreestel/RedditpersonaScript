@@ -8,7 +8,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 def generate_persona(username, submissions, comments):
     content = "\n\n".join(submissions + comments)
 
-    # Truncate if too long (for GPT-3.5)
+
     max_chars = 12000
     content = content[:max_chars]
 
