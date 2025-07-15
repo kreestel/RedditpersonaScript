@@ -17,7 +17,7 @@ This project creates detailed user personas from Reddit profiles using scraped p
 git clone https://github.com/yourusername/reddit-persona
 cd reddit-persona
 python -m venv venv
-source venv/bin/activate 
+venv\Scripts\activate  # For Windows
 pip install -r requirements.txt
 ```
 ### 2. Create a .env file with your API keys:
@@ -27,9 +27,13 @@ REDDIT_CLIENT_SECRET=your_reddit_client_secret
 REDDIT_USER_AGENT=your_custom_user_agent
 OPENAI_API_KEY=your_openai_key
 ```
+For your own Reddit API credentials
+Go to: https://www.reddit.com/prefs/apps => Create a script app.
+
 ### 3. Run the script
 ```bash 
 python main.py
 ```
+When prompted, enter a Reddit profile URL. Then the output will be saved in the output/ folder
 ---
 Built As part of BeyondChats’ AI/LLM Assessment. 
