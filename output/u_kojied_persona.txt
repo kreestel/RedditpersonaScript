@@ -1,0 +1,48 @@
+USER PERSONA: u/kojied
+
+👤 BASIC INFO
+- Age: Not specified
+- Occupation: Possibly in tech industry (iOS developer)
+- Status: Not specified
+- Location: Based in New York City
+- Archetype: Tech-savvy and socially observant
+- Tier: Not specified
+
+💡 ATTRIBUTES
+- Observant | Reflective | Tech-savvy | Socially conscious
+
+🔥 MOTIVATIONS
+- u/kojied is motivated by observing and reflecting on social interactions, especially in New York City.
+- They are interested in technology, particularly in the field of spatial computing and AR.
+- u/kojied is driven by the idea of influencing companies to consider ESG ratings and individual impact on the environment.
+- They seek to understand consumer behavior and decision-making processes.
+
+🧠 PERSONALITY
+- Introvert/Extrovert: Introverted, based on detailed observations and reflections in posts.
+- Intuition/Sensing: Intuitive, as they delve into theories and possibilities beyond surface-level discussions.
+- Feeling/Thinking: Balanced, as they combine emotional observations with logical reasoning.
+- Perceiving/Judging: Perceiving, as they seem open to various perspectives and ideas.
+
+🧍‍♂️ BEHAVIOUR & HABITS
+- u/kojied engages in detailed and reflective posts, sharing personal experiences and thoughts on various topics.
+- They actively seek recommendations and advice on tech-related topics like AR development and spatial computing.
+- u/kojied is interested in social issues like ESG ratings and individual impact on environmental sustainability.
+- They participate in discussions on financial topics like trading options and market trends.
+
+💢 FRUSTRATIONS
+- u/kojied may be frustrated by the lack of certain features in tech devices or software, like the absence of GitHub and Xcode in AVP.
+- They might be annoyed by the limitations of platforms like Robinhood for financial transfers.
+- u/kojied could be concerned about the pricing and accessibility of certain financial options.
+
+🎯 GOALS & NEEDS
+- To influence companies to consider ESG ratings and promote environmental sustainability.
+- To explore and contribute to the development of spatial computing and AR technology.
+- To understand consumer behavior and decision-making processes for personal and possibly professional growth.
+- To engage in discussions on various topics like social issues, tech advancements, and financial trends.
+
+📎 CITED POSTS & COMMENTS
+- "Today when I went to the bar and all of a sudden I felt like I was at a college basement party..." – Post about feeling violated by intern season
+- "Hey I’m an iOS developer building in visionOS..." – Post seeking recommendations for resources on spatial computing
+- "Do you think individuals should be aware of our own ESG rating?" – Post discussing ESG ratings and consumer activism
+- "I’ve been lurking in this channel for a while now..." – Post on developing a mental model for purchase decisions
+- "Sorry to hear that man, in the future you may want to have multiple granaries..." – Comment on a gaming-related topic
