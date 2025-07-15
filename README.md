@@ -34,6 +34,6 @@ Go to: https://www.reddit.com/prefs/apps => Create a script app.
 ```bash 
 python main.py
 ```
-When prompted, enter a Reddit profile URL. Then the output will be saved in the output/ folder
+#### When prompted, enter a Reddit profile URL. Then the output will be saved in the output/ folder
 ---
 Built As part of BeyondChats’ AI/LLM Assessment. 
