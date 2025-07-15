@@ -10,7 +10,7 @@ This project creates detailed user personas from Reddit profiles using scraped p
 
 ---
 
-## How to Run
+## How to Run Locally
 
 ### 1. Clone the repo & set up environment
 ```bash
